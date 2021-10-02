@@ -1,1 +1,1 @@
-# Hubble Front-End Mentor
+# Huddle Front-End Mentor
