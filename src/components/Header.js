@@ -16,7 +16,7 @@ const Header = () => {
           <div>
             <h1>Build The Community Your Fans Will Love</h1>
             <p>
-              Hubble re-imagines the way we build communities. You have a voice,
+              Huddle re-imagines the way we build communities. You have a voice,
               but so does your audience. Create connections with your users as
               you engage in genuine discussion.
             </p>
